@@ -1,0 +1,6 @@
+doc_type,start_date,end_date,reported_count,pulled_count,truncated
+Inspection Report,2024-01-01,2024-12-31,1351,1000,True
+Inspection Report,2024-01-01,2024-03-31,322,0,False
+Inspection Report,2024-04-01,2024-06-30,343,0,False
+Inspection Report,2024-07-01,2024-09-30,358,23,False
+Inspection Report,2024-10-01,2024-12-31,328,328,False
